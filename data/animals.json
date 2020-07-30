@@ -135,6 +135,15 @@
         "13213"
       ],
       "id": "13"
+    },
+    {
+      "name": "Jerry",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
     }
   ]
 }
